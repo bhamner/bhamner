@@ -36,16 +36,6 @@ more efficient.
 - Automated testing and continuous delivery
 - Practical applications of AI in software engineering
 
-## Selected Professional Accomplishments
-
-- Introduced an event-driven architecture adopted across five applications.
-- Refactored a production application, reducing errors by approximately 80%.
-- Designed a trunk-based Git workflow adopted by five product teams.
-- Optimized database queries and data-access patterns across large datasets.
-- Built recruitment analytics, geographic visualization, and campaign
-  management applications.
-- Integrated LLM tool calling into production applications.
-
 ## Engineering Philosophy
 
 I believe good software should be reliable, maintainable, and intuitive.

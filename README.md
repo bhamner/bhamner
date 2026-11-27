@@ -55,6 +55,38 @@ complexity.
 I'm an advocate for technical ownership, continuous improvement,
 experimentation, and sharing knowledge with other engineers.
 
+## Featured Projects
+
+### [Laravel Redis Streams](https://github.com/bhamner/laravel-redis-streams)
+
+An open-source Laravel package providing an Eloquent-inspired
+interface for Redis Streams and consumer groups.
+
+Designed to simplify event-driven application development with
+reliable message processing, typed events, automatic retries,
+pending-message recovery, and dead-letter handling.
+
+Supports both PhpRedis and Predis and is available on Packagist.
+
+**Technologies:** PHP, Laravel, Redis Streams, PHPUnit, Composer
+
+```bash
+composer require bhamner/laravel-redis-streams
+```
+### [Schema Fox](https://github.com/bhamner/schema-fox)
+
+An experimental Laravel package that explores automatic form
+generation through database schema introspection.
+
+Generates create and update forms directly from MySQL table
+definitions, automatically mapping column types, constraints,
+and foreign key relationships to appropriate HTML inputs.
+
+Built to explore reducing repetitive CRUD development without
+requiring developers to manually define every form field.
+
+**Technologies:** PHP, Laravel, Eloquent, MySQL, PHPUnit
+
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/bhamner/)
